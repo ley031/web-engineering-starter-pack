@@ -7,6 +7,10 @@ body {
     text-align: right;
   }
   
+  .indented {
+    margin-left: 20px;
+  }
+  
   h1 {
     font-size: 1.5em;
   }
@@ -22,4 +26,3 @@ body {
   p, li, dd, dt, address {
     line-height: 1.5;
   }
-  
